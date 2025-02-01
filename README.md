@@ -7,7 +7,7 @@
 
 ---
 
-<p> THIS IS A SAMPLE PARA</p>
+<p> THIS IS A SAMPLE PARA (feature1 wala)</p>
 <table>
     <tr>
         <td>HELP</td>
