@@ -1,0 +1,50 @@
+/* sty;le for login page */
+/* CSS styling for form */
+form {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+}
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+input[type="submit"] {
+    width: 100%;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+/* CSS styling for error messages */
+.error {
+    color: red;
+    margin-top: 5px;
+}
+/* CSS styling for success message */
+.success {
+    color: green;
+    margin-top: 5px;
+}
+/* CSS styling for form validation */
+.valid {
+    display: none;
+}
+.invalid {
+display: block;
+    color: red;
+    margin-top: 5px;
+}
