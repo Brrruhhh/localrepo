@@ -29,4 +29,9 @@
         <td>main</td>
         <td>rn.</td>
     </tr>
+    <tr>
+        <td>remote</td>
+        <td>to</td>
+        <td>local</td>
+    </tr>
 </table>
