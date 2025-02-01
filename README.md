@@ -8,6 +8,7 @@
 ---
 
 <p> THIS IS A SAMPLE PARA (main wala)</p>
+<p> THIS IS A SAMPLE PARA (feature1 wala)</p>
 <table>
     <tr>
         <td>HELP</td>
@@ -28,5 +29,10 @@
         <td>in</td>
         <td>main</td>
         <td>rn.</td>
+    </tr>
+    <tr>
+        <td>remote</td>
+        <td>to</td>
+        <td>local</td>
     </tr>
 </table>
